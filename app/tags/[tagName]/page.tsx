@@ -1,9 +1,9 @@
 import React from 'react'
 
-const page = () => {
+const TagName = () => {
   return (
-    <div>page</div>
+    <div>TagName</div>
   )
 }
 
-export default page
+export default TagName
